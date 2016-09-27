@@ -1,0 +1,16 @@
+{
+  "name": "mudapi",
+  "version": "1.0.0",
+  "description": "Serves information from mud client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antti Reijonen",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "plain-text-data-to-json": "^1.0.0"
+  }
+}
